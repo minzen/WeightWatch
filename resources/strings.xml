@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">WeightWatch</string>
+    <string id="appLabel">Weight Watch</string>
+    <string id="latestMeasurementLabel">Latest measurement</string>
+    <string id="dateLabel">8.1.2017</string>
+    <string id="weightDisplayLabel">N/A</string>
+</strings>

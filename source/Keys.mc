@@ -1,0 +1,2 @@
+var clientId = "";
+var clientSecret = "";
